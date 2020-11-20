@@ -107,6 +107,7 @@ ul{
 .feature-content{
     padding: 30px 20px 40px 40px;
     flex: 1;
+    text-align: left;
 }
 .feature-content > * {
     margin-bottom: 1rem;
@@ -146,3 +147,67 @@ ul{
   .figure1{
       width: 100%;
   }
+  .postwork3{
+      display: flex;
+      background-color: #a1d683;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-around;
+      flex-wrap: nowrap;
+      padding: 5% 15%;
+      margin-top: 10%;
+  }
+  .flexitem1{
+      flex-grow: 2;
+      text-align: left;
+      padding-right: 100px;
+      flex-direction: row;
+  }
+  .flexitem2{
+      display: flex;
+      flex-grow:1;
+      flex-direction: column;
+
+  }
+ #growing{
+     color: #025157;
+     font-weight: bolder;
+     font-size: 50px;
+     font-family: "Alegreya", serif;
+ }
+ #are{
+    color: #343434;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+ }
+ #logos{
+     max-width: 30vw;
+ }
+ #abajo_imagen{
+     text-align: left;
+     color: #8b8b8bcc;
+     background-color: white;
+ }
+ #textoimagen{
+     color: #025157;
+     font-size: 18px;
+     font-weight: 600;
+     line-height: 20px;
+     margin-bottom: 12px;
+ }
+ #icon_cart{
+     width: 26px;
+     margin-right: 20px;
+ }
+ #paragraphimage{
+     font-size: 25px;
+     font-weight: 400;
+     line-height: 30px;
+     margin-bottom: 20px;
+     color: black;
+ }
+ #boton{
+     margin-top: 20px;
+     width: 100%;
+ }
