@@ -211,3 +211,54 @@ ul{
      margin-top: 20px;
      width: 100%;
  }
+.hdmw{
+    display: block;
+    text-align: center;
+    padding: 5% 10%;
+    background-color: #fffbf7;
+}
+.text h3{
+    color: #025157;
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: 800;
+    font-family: "Alegreya", serif;
+    margin-bottom: 8px;
+}
+.text p{
+    font-size: 18px;
+    color: #46484c;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 16px;
+    max-width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
+.text button{
+    margin-top: 6px;
+}
+.image{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    padding: 5% 10%;
+}
+.imageitem img{
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
+}
+.imageitem a{
+    text-decoration: none;
+    color: #67b54b;
+    font-size: 16px;
+}
+.imageitem{
+    text-align: left;
+}
+.imageitem h3{
+    text-align: center;
+    color: #025157;
+    font-size: 30px;
+    font-weight: 900;
+}
