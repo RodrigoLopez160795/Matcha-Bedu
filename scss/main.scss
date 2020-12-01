@@ -81,3 +81,62 @@
     }
   }
 }
+.postwork7{
+  background-image: url("https://getmatcha.com/wp-content/themes/getmatcha/css/../img/home_people.png");
+  background-position: center;
+  background-size: cover;
+  background-color: white;
+  height: 350px;
+}
+.pw7{
+  padding: 5% 5% 2%;
+  background-color: #96d178;
+  margin-top: -30px;
+    h2{
+      color: #025157;
+      font-size: 60px;
+      font-family: $font-title;
+    }
+    p{
+      color: white;
+      margin-top: 15px;
+      span{
+        font-weight: bolder;
+      }
+    }
+
+}
+.lastcontainer{
+  display: flex;
+  background-color: $dark-green-title;
+  padding: 5% 10% 0;
+  margin: 5% 5%;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  color: white;
+  div{
+    margin-bottom: 5%;
+    button{
+      background-color: $light-green;
+      border-radius: 8px;
+    }
+    span{
+      color: #6abf4b;
+    }
+    input{
+      margin-right: 0;
+      margin-bottom: 3%;
+    }
+  }
+  #text_last_container{
+    margin-right: 35%;
+    h2{
+      font-family: $font-title;
+      font-size: 34px;
+      font-weight: bolder;
+    }
+  }
+
+
+}

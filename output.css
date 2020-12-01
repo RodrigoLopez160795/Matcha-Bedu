@@ -79,4 +79,63 @@
   color: #4a4a4a;
 }
 
+.postwork7 {
+  background-image: url("https://getmatcha.com/wp-content/themes/getmatcha/css/../img/home_people.png");
+  background-position: center;
+  background-size: cover;
+  background-color: white;
+  height: 350px;
+}
+
+.pw7 {
+  padding: 5% 5% 2%;
+  background-color: #96d178;
+  margin-top: -30px;
+}
+.pw7 h2 {
+  color: #025157;
+  font-size: 60px;
+  font-family: "Alegreya", serif;
+}
+.pw7 p {
+  color: white;
+  margin-top: 15px;
+}
+.pw7 p span {
+  font-weight: bolder;
+}
+
+.lastcontainer {
+  display: flex;
+  background-color: #025157;
+  padding: 5% 10% 0;
+  margin: 5% 5%;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  color: white;
+}
+.lastcontainer div {
+  margin-bottom: 5%;
+}
+.lastcontainer div button {
+  background-color: #67b54b;
+  border-radius: 8px;
+}
+.lastcontainer div span {
+  color: #6abf4b;
+}
+.lastcontainer div input {
+  margin-right: 0;
+  margin-bottom: 3%;
+}
+.lastcontainer #text_last_container {
+  margin-right: 35%;
+}
+.lastcontainer #text_last_container h2 {
+  font-family: "Alegreya", serif;
+  font-size: 34px;
+  font-weight: bolder;
+}
+
 /*# sourceMappingURL=output.css.map */
